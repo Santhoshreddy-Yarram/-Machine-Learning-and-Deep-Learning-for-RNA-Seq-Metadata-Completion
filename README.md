@@ -1,5 +1,7 @@
 # Machine Learning and Deep Learning for RNA-Seq Metadata Completion
 
+[![DOI](https://zenodo.org/badge/1106512335.svg)](https://doi.org/10.5281/zenodo.23189710)
+
 This repository contains the data, R/RMarkdown scripts, processed metadata, model outputs, and figures used for my master's thesis on machine-learning-based completion of missing biological metadata in public barley RNA-seq datasets.
 
 The main analysis focused on predicting missing metadata for three biological variables:
@@ -152,6 +154,9 @@ The processed metadata, prediction outputs, analysis scripts, and final annotate
 The final annotated metadata table is:
 
 `metadata_with_all_predictions_final_clean.csv`
+
+The archived thesis release is available on Zenodo:
+https://doi.org/10.5281/zenodo.23189711
 
 ## License
 
